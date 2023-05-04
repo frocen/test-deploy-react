@@ -72,7 +72,7 @@ function App() {
           <img src={stars} id='stars' style={{ left: ScrollTop * 0.25 }}></img>
           <img src={moon} id='moon' style={{ top: ScrollTop * 1.05 }}></img>
           <img src={mountains_behind} id='mountains_behind' style={{ top: ScrollTop * 0.5 }}></img>
-          <h2 id='text' style={{ marginTop: ScrollTop * 1.5, marginRight: ScrollTop * 4 }}>
+          <h2 className='hidden' id='text' style={{ marginTop: ScrollTop * 1.5, marginRight: ScrollTop * 4 }}>
           <TypeAnimation
   sequence={[
     // Same String at the start will only be typed once, initially
