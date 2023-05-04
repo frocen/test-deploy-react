@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/test-deploy-react/static/css/main.264d834b.css",
+    "main.js": "/test-deploy-react/static/js/main.9dfd97b1.js",
+    "static/js/787.79e8510a.chunk.js": "/test-deploy-react/static/js/787.79e8510a.chunk.js",
+    "static/media/mountains_front.png": "/test-deploy-react/static/media/mountains_front.25a10186b8e276488f43.png",
+    "static/media/mountains_behind.png": "/test-deploy-react/static/media/mountains_behind.38e14b5c40238f9f4c60.png",
+    "static/media/sun.png": "/test-deploy-react/static/media/sun.ed3bcb1a0f1ad93b36ab.png",
+    "static/media/stars.png": "/test-deploy-react/static/media/stars.fb95e3d1302794752cfa.png",
+    "index.html": "/test-deploy-react/index.html",
+    "main.264d834b.css.map": "/test-deploy-react/static/css/main.264d834b.css.map",
+    "main.9dfd97b1.js.map": "/test-deploy-react/static/js/main.9dfd97b1.js.map",
+    "787.79e8510a.chunk.js.map": "/test-deploy-react/static/js/787.79e8510a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.264d834b.css",
+    "static/js/main.9dfd97b1.js"
+  ]
+}
