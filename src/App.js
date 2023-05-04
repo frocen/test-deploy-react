@@ -63,8 +63,6 @@ function App() {
           <ul>
             <li><a href='#' className='active'>Home</a></li>
             <li><a href='#'>About</a></li>
-            <li><a href='#'>Work</a></li>
-            <li><a href='#'>Contact</a></li>
           </ul>
         </header>
         <section>
